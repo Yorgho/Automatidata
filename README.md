@@ -6,6 +6,12 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 **Note**: This project's dataset was created for pedagogical purposes and may not be indicative of New York City taxi cab riders' behavior.
 
+## Data Dictionary
+
+The following image provides a data dictionary for the project:
+
+![Data Dictionary](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/Data_Dictionary.png)
+
 ## Project Structure
 
 This project is divided into several steps, each documented in separate Jupyter notebooks. Here is a breakdown of the project structure:
