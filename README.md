@@ -24,10 +24,26 @@ This project is divided into several steps, each documented in separate Jupyter 
     - Modeling Method 1: [Modeling Method 1 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation.ipynb)
     - Modeling Method 2: [Modeling Method 2 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation2.ipynb)
 
-## Getting Started
+### Getting Started
 
-To get started with this project, you can clone the repository and open the Jupyter notebooks in your local environment.
+To get started with this project, follow these steps:
 
-```sh
-git clone https://github.com/Yorgho/TaxiFareEstimationModel.git
-cd TaxiFareEstimationModel
+1. **Clone the Repository**: Run the following command to create a local copy of the repository:
+
+    ```sh
+    git clone https://github.com/Yorgho/TaxiFareEstimationModel.git
+    ```
+
+2. **Navigate to the Project Directory**: Change to the project directory with:
+
+    ```sh
+    cd TaxiFareEstimationModel
+    ```
+
+3. **Install Required Packages**: Install the necessary Python packages by running:
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+These steps will set up your local environment so you can start exploring and working with the project’s Jupyter notebooks and other files.
