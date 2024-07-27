@@ -12,7 +12,7 @@ This project is divided into several steps, each documented in separate Jupyter 
 
 1. **Data Cleaning**
     - Before any analysis, data cleaning is a crucial step to ensure the quality of the data. This step involves handling missing values, outlier detection, and data type conversions.
-    - [Data Cleaning Notebook](./1-Data cleaning_Taxi Fare Estimation.ipynb)
+    - [Data Cleaning Notebook]([Data Cleaning Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/1-Data%20cleaning_Taxi%20Fare%20Estimation.ipynb)
 
 2. **Feature Engineering**
     - Feature engineering involves creating new features from the raw data that can help improve the performance of the machine learning model. This project explores two different methods of feature engineering.
