@@ -12,15 +12,15 @@ This project is divided into several steps, each documented in separate Jupyter 
 
 1. **Data Cleaning**
     - Before any analysis, data cleaning is a crucial step to ensure the quality of the data. This step involves handling missing values, outlier detection, and data type conversions.
-    - [Data Cleaning Notebook]([Data Cleaning Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/1-Data%20cleaning_Taxi%20Fare%20Estimation.ipynb)
+    - [Data Cleaning Notebook]([Data Cleaning Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/1-Data%20cleaning_Taxi%20Fare%20Estimation.ipynb))
 
 2. **Feature Engineering**
     - Feature engineering involves creating new features from the raw data that can help improve the performance of the machine learning model. This project explores two different methods of feature engineering.
-    - Method 1: [Feature Engineering Method 1 Notebook](link-to-feature-engineering-method1-notebook)
-    - Method 2: [Feature Engineering Method 2 Notebook](link-to-feature-engineering-method2-notebook)
+    - Method 1: [Feature Engineering Method 1 Notebook][(link-to-feature-engineering-method1-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR.ipynb)
+    - Method 2: [Feature Engineering Method 2 Notebook][(link-to-feature-engineering-method2-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR2.ipynb)
 
 3. **Modeling**
     - After feature engineering, the next step is to build and train the machine learning models. This project explores two different modeling approaches.
-    - Modeling Method 1: [Modeling Method 1 Notebook](link-to-modeling-method1-notebook)
-    - Modeling Method 2: [Modeling Method 2 Notebook](link-to-modeling-method2-notebook)
+    - Modeling Method 1: [Modeling Method 1 Notebook][(link-to-modeling-method1-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation.ipynb)
+    - Modeling Method 2: [Modeling Method 2 Notebook][(link-to-modeling-method2-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation2.ipynb)
 
