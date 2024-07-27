@@ -16,11 +16,11 @@ This project is divided into several steps, each documented in separate Jupyter 
 
 2. **Feature Engineering**
     - Feature engineering involves creating new features from the raw data that can help improve the performance of the machine learning model. This project explores two different methods of feature engineering.
-    - Method 1: [Feature Engineering Method 1 Notebook][(link-to-feature-engineering-method1-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR.ipynb)
-    - Method 2: [Feature Engineering Method 2 Notebook][(link-to-feature-engineering-method2-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR2.ipynb)
+    - Method 1: [Feature Engineering Method 1 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR.ipynb)
+    - Method 2: [Feature Engineering Method 2 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/2-Feature%20Engineering_Taxi%20Fare%20Estimation_MLR2.ipynb)
 
 3. **Modeling**
     - After feature engineering, the next step is to build and train the machine learning models. This project explores two different modeling approaches.
-    - Modeling Method 1: [Modeling Method 1 Notebook][(link-to-modeling-method1-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation.ipynb)
-    - Modeling Method 2: [Modeling Method 2 Notebook][(link-to-modeling-method2-notebook)](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation2.ipynb)
+    - Modeling Method 1: [Modeling Method 1 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation.ipynb)
+    - Modeling Method 2: [Modeling Method 2 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation2.ipynb)
 
