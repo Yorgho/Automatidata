@@ -43,7 +43,7 @@ This project is divided into several steps, each documented in separate Jupyter 
     - After feature engineering, the next step is to build and train the machine learning models. This project explores two different modeling approaches.
     - `Modeling Method 1`: [Modeling Method 1 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation.ipynb)
   
-      This script performs a comprehensive multiple linear regression analysis to predict taxi fares based on trip data obtained using [`method 1`](#method-1) earlier, focusing on key assumptions and metrics for model validation. It starts with data preprocessing,
+      This script performs a comprehensive multiple linear regression analysis to predict taxi fares based on trip data obtained using `Method 1` earlier, focusing on key assumptions and metrics for model validation. It starts with data preprocessing,
       including splitting the dataset into training and testing sets, and standardizing the features. A correlation matrix and heatmap are used to identify multicollinearity,
       followed by calculating the variance inflation factor (VIF) to ensure no two predictors are highly correlated.
       The regression model is then fitted to the training data and evaluated using R², MAE, MSE, and RMSE metrics, achieving a high R² score, indicating good model performance.
@@ -51,7 +51,7 @@ This project is divided into several steps, each documented in separate Jupyter 
       
     - `Modeling Method 2`: [Modeling Method 2 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/3-MLR_Taxi%20Fare%20Estimation2.ipynb)
 
-      The multiple linear regression model developed using [`method 2`](#method-2) data demonstrates a high level of accuracy, as evidenced by the R² values for both the training (0.9737) and testing (0.9835) datasets.
+      The multiple linear regression model developed using `Method 2` data demonstrates a high level of accuracy, as evidenced by the R² values for both the training (0.9737) and testing (0.9835) datasets.
       The model's evaluation metrics, such as MAE, MSE, and RMSE, further affirm its reliability and precision in predicting fares.
       The VIF values indicate that multicollinearity among the predictors is not excessively high, although trip_distance and duration do exhibit some correlation. Despite this, including both variables improves the model's predictive power.
       The assumptions of normality and homoscedasticity of residuals were validated through visualization, indicating that the errors are normally distributed and exhibit constant variance across the model.
