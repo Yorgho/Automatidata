@@ -9,7 +9,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 ## Data Dictionary
 
 The following image provides a data dictionary for the project:
-
+<a name="data-dictionary-image"></a>
 ![Data Dictionary](./Data_Dictionary.png)
 
 ## Project Structure
@@ -58,7 +58,7 @@ This project is divided into several steps, each documented in separate Jupyter 
       The standardized coefficients provide an interpretable understanding of the model: for every 1-mile increase in trip distance, the fare is expected to increase by approximately $1.96, highlighting the direct relationship between distance and fare.
       Overall, this model serves as a robust predictor of taxi fares, suitable for further integration into more complex machine learning models.
 
-      - `Modeling Method 3`: [Modeling Method 3 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/Random%20Forest_XG%20boosting_Taxi%20Fare%20Estimation.ipynb)
+   - `Modeling Method 3`: [Modeling Method 3 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/Random%20Forest_XG%20boosting_Taxi%20Fare%20Estimation.ipynb)
 
       The task involved training multiple regression models to predict the total fare amount for yellow taxi trips in New York City using three features: trip distance, duration, and rush hour indicator.
       The models evaluated included Linear Regression, Random Forest Regressor, and XGBoost Regressor. After performing hyperparameter tuning and model evaluation, the Random Forest Regressor emerged as the
