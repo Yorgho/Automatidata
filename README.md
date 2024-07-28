@@ -10,7 +10,7 @@ The TLC data comes from over 200,000 taxi and limousine licensees, making approx
 
 The following image provides a data dictionary for the project:
 
-![Data Dictionary](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/Data_Dictionary.png)
+![Data Dictionary](https://raw.githubusercontent.com/Yorgho/TaxiFareEstimationModel/main/Data_Dictionary.png)
 
 ## Project Structure
 
