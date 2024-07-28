@@ -58,6 +58,19 @@ This project is divided into several steps, each documented in separate Jupyter 
       The standardized coefficients provide an interpretable understanding of the model: for every 1-mile increase in trip distance, the fare is expected to increase by approximately $1.96, highlighting the direct relationship between distance and fare.
       Overall, this model serves as a robust predictor of taxi fares, suitable for further integration into more complex machine learning models.
 
+      - `Modeling Method 3`: [Modeling Method 3 Notebook](https://github.com/Yorgho/TaxiFareEstimationModel/blob/main/Random%20Forest_XG%20boosting_Taxi%20Fare%20Estimation.ipynb)
+
+      The task involved training multiple regression models to predict the total fare amount for yellow taxi trips in New York City using three features: trip distance, duration, and rush hour indicator.
+      The models evaluated included Linear Regression, Random Forest Regressor, and XGBoost Regressor. After performing hyperparameter tuning and model evaluation, the Random Forest Regressor emerged as the
+      best-performing model on the test data, with the following metrics: an R-squared of 0.980, a Mean Absolute Error (MAE) of 0.506, a Mean Squared Error (MSE) of 1.412, and a Root Mean Squared Error (RMSE) of 1.188.
+
+      In comparison, the Linear Regression model, although simple and interpretable, had slightly lower performance with an R-squared of 0.979, MAE of 0.565, MSE of 1.519, and RMSE of 1.233.
+      The XGBoost model, known for its robustness and ability to handle complex datasets, also performed well but not as effectively as the Random Forest, with an R-squared of 0.980, MAE of 0.538, MSE of 1.452,
+      and RMSE of 1.205.
+        
+      Overall, the Random Forest model provided the most accurate predictions with the lowest error rates, making it the best choice among the evaluated models for predicting taxi fare amounts.
+      This result is particularly notable given the Random Forest's ability to handle the complexities and interactions within the dataset effectively.
+
 ### Getting Started
 
 To get started with this project, follow these steps:
